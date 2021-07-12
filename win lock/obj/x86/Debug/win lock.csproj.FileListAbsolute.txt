@@ -1,0 +1,10 @@
+F:\My Files\project\win lock\win lock\obj\x86\Debug\FolderProtection.checkpassword.resources
+F:\My Files\project\win lock\win lock\obj\x86\Debug\FolderProtection.Form1.resources
+F:\My Files\project\win lock\win lock\obj\x86\Debug\FolderProtection.password.resources
+F:\My Files\project\win lock\win lock\obj\x86\Debug\win_lock.Properties.Resources.resources
+F:\My Files\project\win lock\win lock\obj\x86\Debug\win lock.csproj.GenerateResource.Cache
+F:\My Files\project\win lock\win lock\bin\Debug\win lock.exe
+F:\My Files\project\win lock\win lock\bin\Debug\win lock.pdb
+F:\My Files\project\win lock\win lock\obj\x86\Debug\win lock.exe
+F:\My Files\project\win lock\win lock\obj\x86\Debug\win lock.pdb
+F:\My Files\project\win lock\win lock\obj\x86\Debug\win lock.csprojResolveAssemblyReference.cache
